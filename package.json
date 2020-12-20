@@ -1,0 +1,28 @@
+{
+  "name": "vuepress-plugin-panolens",
+  "version": "0.1.0",
+  "description": "VuePress plugin to support Panolens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalisio/vuepress-plugin-panolens.git"
+  },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "plugin",
+    "panolens"
+  ],
+  "author": "Kalisio team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kalisio/vuepress-plugin-panolens/issues"
+  },
+  "homepage": "https://github.com/kalisio/vuepress-plugin-panolens#readme",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
